@@ -1,5 +1,5 @@
 # Introduction
-A take on highly imbalanced fraud classification using permutation importance to select top features and explaining the model using SHAP. Here's the kernel on (Kaggle)[https://www.kaggle.com/vikramraju17/permutation-importance-and-model-explaining].
+A take on highly imbalanced fraud classification using permutation importance to select top features and explaining the model using SHAP. Here's the kernel on [Kaggle](https://www.kaggle.com/vikramraju17/permutation-importance-and-model-explaining).
 
 This is an interesting problem in flagging credit risk when all variables are dimensionally reduced (likely PCA as hinted in the problem). It becomes a pure data science exercise to see what can be done with the data and how to handle highly imbalanced classes.
 
